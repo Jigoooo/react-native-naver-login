@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-seoul/naver-login",
+  "name": "@react-native-seoul/naver-login-jigooo",
   "version": "4.0.4",
   "description": "React Native Module for Naver Login",
   "postinstall": "dooboolab-welcome postinstall",
