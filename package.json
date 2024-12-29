@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-seoul/naver-login-jigooo",
+  "name": "naver-login-jigooo",
   "version": "4.0.4",
   "description": "React Native Module for Naver Login",
   "postinstall": "dooboolab-welcome postinstall",
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crossplatformkorea/react-native-naver-login"
+    "url": "git+https://github.com/Jigoooo/react-native-naver-login.git"
   },
-  "homepage": "https://github.com/crossplatformkorea/react-native-naver-login",
+  "homepage": "https://github.com/Jigoooo/react-native-naver-login.git",
   "keywords": [
     "react-native",
     "naver",
